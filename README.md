@@ -3,6 +3,8 @@
 This website is built using [Docusaurus 2](https://docusaurus.io/),
 a modern static website generator.
 
+![Screenshot (2)](https://user-images.githubusercontent.com/8009492/127031430-e1622a86-240c-456e-92c1-c101fed6d240.png)
+
 ## Installation
 
 ```console
